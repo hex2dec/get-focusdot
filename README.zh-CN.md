@@ -10,6 +10,11 @@
 
 请前往 GitHub Releases 页面下载 **最新版本**。
 
+### 更新器提示
+
+FocusDot 的应用内更新器已迁移到 **CrabNebula Cloud**。后续自动更新检查与下载将通过
+CrabNebula Cloud 提供。
+
 ### macOS Gatekeeper 提示
 
 当前 FocusDot 发布包 **尚未使用 Apple Developer 证书签名**。如果安装后 macOS 提示：
