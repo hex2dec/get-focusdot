@@ -11,6 +11,12 @@ This public repository is for **FocusDot releases**, **issue reports**, and
 
 Download the **latest version** from the GitHub Releases page.
 
+### Updater Notice
+
+FocusDot's in-app updater has been migrated to **CrabNebula Cloud**. Future
+automatic update checks and downloads will be delivered through CrabNebula
+Cloud.
+
 ### macOS Gatekeeper Notice
 
 FocusDot releases are currently **not signed with an Apple Developer certificate**.
